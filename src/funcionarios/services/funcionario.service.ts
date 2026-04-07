@@ -3,6 +3,7 @@ import { HttpException, HttpStatus, Injectable } from "@nestjs/common";
 import { InjectRepository } from "@nestjs/typeorm";
 import { ILike, Repository } from "typeorm";
 import { Funcionario } from "../entities/funcionario.entity";
+import { DeleteResult } from "typeorm/browser";
 
 @Injectable()
 export class FuncionarioService{
@@ -38,7 +39,21 @@ export class FuncionarioService{
         })
     }
 
+    async create(funcionario: Funcionario): Promise<Funcionario> {
+        return await this.funcionarioRepository.save(funcionario);
+    }
 
+    async update(funcionario: Funcionario): Promise<Funcionario> {
 
+        await this.findById(funcionario.id);
 
+        return await this.funcionarioRepository.save(funcionario);
+    }
+
+    async delete(id: number): Promise<DeleteResult> {
+
+        await this.findById(id);
+
+        return await this.funcionarioRepository.delete(id);
+    }
 }
