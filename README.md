@@ -60,8 +60,7 @@ npm run start:dev
 
 -----------------------------------------------------------------------------
 
-IMPLEMENTAÇÕES FUTURAS
-O projeto será expandido com:
+IMPLEMENTAÇÕES FUTURAS:
 
 🔍 Novos filtros de pesquisa
 Permitir buscas mais rápidas pelo nome do funcionário, facilitando o acesso aos dados.
