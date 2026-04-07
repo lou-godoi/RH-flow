@@ -2,7 +2,7 @@
 <br>
 Sistema inteligente para gestão e automação de fluxos de Recursos Humanos.
 
-O RH Flow é uma aplicação desenvolvida para otimizar processos internos de RH, permitindo um controle mais fluido de colaboradores. O foco principal é trazer transparência e agilidade para o dia a dia do setor.
+<br>O RH Flow é uma aplicação desenvolvida para otimizar processos internos de RH, permitindo um controle mais fluido de colaboradores. O foco principal é trazer transparência e agilidade para o dia a dia do setor.
 
 Atualmente, o sistema permite o gerenciamento completo de funcionários, possibilitando cadastrar, visualizar, atualizar e remover informações de colaboradores de forma simples e organizada.
 <br>
