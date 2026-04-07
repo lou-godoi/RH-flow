@@ -1,46 +1,51 @@
-🚀 RH Flow
-
+<h2>🚀 RH Flow</h2>
+<br>
 Sistema inteligente para gestão e automação de fluxos de Recursos Humanos.
 
 O RH Flow é uma aplicação desenvolvida para otimizar processos internos de RH, permitindo um controle mais fluido de colaboradores. O foco principal é trazer transparência e agilidade para o dia a dia do setor.
 
 Atualmente, o sistema permite o gerenciamento completo de funcionários, possibilitando cadastrar, visualizar, atualizar e remover informações de colaboradores de forma simples e organizada.
+<br>
+
 
 ---
 
-📌 Sobre o projeto
-O RH Flow foi criado pela TwoStack, uma empresa de desenvolvimento de software focada na criação de soluções digitais eficientes, modernas e escaláveis.
+<h3>📌 Sobre o projeto</h3>
+<br>O RH Flow foi criado pela TwoStack, uma empresa de desenvolvimento de software focada na criação de soluções digitais eficientes, modernas e escaláveis.
 
-Este projeto representa a base de um sistema maior de gestão de RH, que será evoluído com novas funcionalidades ao longo do tempo.
+<br>Este projeto representa a base de um sistema maior de gestão de RH, que será evoluído com novas funcionalidades ao longo do tempo.
 
 ---
 
-⚙️ Funcionalidades atuais
+<h3>⚙️ Funcionalidades atuais</h3>
 Atualmente, o sistema permite:
 
-👤 Cadastrar novos funcionários
-✏️ Atualizar informações de funcionários
-❌ Remover funcionários
-🔍 Buscar funcionário por ID
-🏢 Filtrar funcionários por departamento
-📋 Visualizar todos os funcionários cadastrados
+<br>👤 Cadastrar novos funcionários
+<br>✏️ Atualizar informações de funcionários
+<br>❌ Remover funcionários
+<br>🔍 Buscar funcionário por ID
+<br>🏢 Filtrar funcionários por departamento
+<br>📋 Visualizar todos os funcionários cadastrados
 
 ---
 
-🚀 Tecnologias Utilizadas
+<h3>🚀 Tecnologias Utilizadas</h3>
+<br>
 Este projeto foi construído com as seguintes ferramentas:
 
-Backend: TypeScript, Node.js, NestJS
-Banco de Dados: MySQL
+<br>Backend: TypeScript, Node.js, NestJS
+<br>Banco de Dados: MySQL
 
 ---
-⚙️ Instalação
+<h3>⚙️ Instalação</h3>
 
 Clone o repositório:
 
 git clone https://github.com/lou-godoi/RH-flow.git
-cd RH-flow
+<br>cd RH-flow
 
+<br>
+<br>
 Instale as dependências:
 
 npm install
@@ -59,22 +64,22 @@ npm run start:dev
 
 -----------------------------------------------------------------------------
 
-🔮 IMPLEMENTAÇÕES FUTURAS:
+<h3>🔮 Implementações futuras</h3>
 
-🔍 Novos filtros de pesquisa
-Permitir buscas mais rápidas pelo nome do funcionário, facilitando o acesso aos dados.
-⚙️ Automação com triggers no banco de dados
-Atualização automática de informações relacionadas, como o total de funcionários por departamento após novos cadastros.
-📊 Ordenação de resultados
-Possibilidade de organizar listagens por ordem alfabética ou por maior salário, melhorando a visualização dos dados.
+<br>🔍 Novos filtros de pesquisa
+<br>Permitir buscas mais rápidas pelo nome do funcionário, facilitando o acesso aos dados.
+<br><br>⚙️ Automação com triggers no banco de dados
+<br>Atualização automática de informações relacionadas, como o total de funcionários por departamento após novos cadastros.
+<br><br>📊 Ordenação de resultados
+<br>Possibilidade de organizar listagens por ordem alfabética ou por maior salário, melhorando a visualização dos dados.
 
 
 -----------------------------------------------------------------------------
 
-👨‍💻 Desenvolvido por
+<h3>👨‍💻 Desenvolvido por</h3>
 
-TwoStack
-Empresa especializada no desenvolvimento de soluções digitais sob medida.
+**TwoStack**
+<br>Empresa especializada no desenvolvimento de soluções digitais sob medida.
 
 [Beatriz Braga](https://github.com/BiiaBraga)
 
